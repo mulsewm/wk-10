@@ -1,0 +1,4 @@
+# Python dependencies for the analysis and dashboard backend
+pymc3
+flask
+# Add additional dependencies as needed

@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node modules and build artifacts
+node_modules/
+build/
+
+# Data folders (raw and processed data should not be committed)
+data/raw/
+data/processed/
+
+# Environment files
+.env
