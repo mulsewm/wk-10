@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-\"\"\"Model definitions for time series, change point detection, and Bayesian analysis.\"\"\"
 
 def build_statistical_models():
     print("Building ARIMA/GARCH and other time series models...")

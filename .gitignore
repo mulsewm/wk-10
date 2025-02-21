@@ -16,3 +16,4 @@ data/processed/
 
 # Environment files
 .env
+.venv/
